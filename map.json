@@ -55,6 +55,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"jitsi.ajax.szdm.it"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -78,6 +83,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"jitsi.ajax.szdm.it"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -101,6 +111,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"jitsi.ajax.szdm.it"
                 }],
          "type":"tilelayer",
          "visible":true,
