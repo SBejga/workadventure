@@ -1,2 +1,2 @@
-(()=>{"use strict";console.log("Script started successfully"),WA.openCoWebSite("https://workadventu.re")})();
+(()=>{"use strict";console.log("script.js"),WA.sendChatMessage("Herzlich willkommen! Viel Spaß im virtuellen Büro.","system"),WA.sendChatMessage("Die Konferenzräume starten eine Videokonferenz, ansonsten einfach auf Spieler:innen zugehen um einen direkten Videoanruf zu starten","system")})();
 //# sourceMappingURL=script.js.map

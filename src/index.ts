@@ -3,5 +3,7 @@
 // You can write your WorkAdventure script here, if any.
 // The "WA" global object is available from anywhere.
 
-console.log('Script started successfully');
-WA.openCoWebSite('https://workadventu.re');
+console.log('script.js');
+
+WA.sendChatMessage('Herzlich willkommen! Viel Spaß im virtuellen Büro.', 'system');
+WA.sendChatMessage('Die Konferenzräume starten eine Videokonferenz, ansonsten einfach auf Spieler:innen zugehen um einen direkten Videoanruf zu starten', 'system');
