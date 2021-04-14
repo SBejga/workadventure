@@ -59,7 +59,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"jitsi.ajax.szdm.it"
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -87,7 +87,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"jitsi.ajax.szdm.it"
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -115,7 +115,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"jitsi.ajax.szdm.it"
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
